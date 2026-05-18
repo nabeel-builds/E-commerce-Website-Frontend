@@ -59,7 +59,7 @@ npm run dev
 ## 👨‍💻 Author
 
 Made with ❤️ by **Nabeel**  
-[GitHub Profile](https://github.com/nabeel-builds)
+
 
 ---
 
